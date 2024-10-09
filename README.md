@@ -1,4 +1,3 @@
-#RANDOM-PACMAN
 
 Description:
 
