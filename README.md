@@ -1,3 +1,5 @@
+#RANDOM-PACMAN
+
 Description:
 
 This HTML page features a Pac-Man animation moving horizontally within a container, controlled by JavaScript for direction, mouth animation, and boundary reversal, with a continuous animation loop triggered by setInterval every 100 milliseconds.
